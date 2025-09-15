@@ -1,3 +1,4 @@
+/* 请确保已安装 Tailwind CSS 并在项目中正确配置。若已安装，该错误可能是因为 CSS 预处理器未正确识别 @tailwind 指令。 */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
